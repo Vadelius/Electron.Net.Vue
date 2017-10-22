@@ -1,6 +1,6 @@
 # Electron-Vue with .Net Core 2
 
-
+![logo](https://cdn.rawgit.com/Vadelius/Electron.Net.Vue/07af5883/electron.net-logo.png)
 Make .Net Core apps with Electron/Vue front-end!
 
 
