@@ -11,4 +11,5 @@ thumbs.db
 !.gitkeep
 src/api/bin
 src/api/obj/*
-
+.vscode
+src/api/.vs
