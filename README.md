@@ -1,4 +1,4 @@
-# Electron-Vue with .Net Core 2
+# Electron-Vue with .Net Core 2 [![Build status](https://ci.appveyor.com/api/projects/status/xobiq6r9i8yb5ajk?svg=true)](https://ci.appveyor.com/project/Vadelius/electron-net-vue)
 
 ![logo](https://cdn.rawgit.com/Vadelius/Electron.Net.Vue/07af5883/electron.net-logo.png)
 Make .Net Core apps with Electron/Vue front-end!
