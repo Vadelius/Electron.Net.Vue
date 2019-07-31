@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "axios": "^0.18.1",
-    "vue": "^2.4.2",
+    "vue": "^2.5.17",
     "vue-electron": "^1.0.6",
     "vue-router": "^2.5.3",
     "vuetify": "0.16.4",
